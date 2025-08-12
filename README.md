@@ -176,10 +176,6 @@ virtual_drag&drop/
 - Test changes with different hand positions and lighting conditions
 - Update documentation for new features
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Google MediaPipe**: Hand tracking and landmark detection
@@ -203,3 +199,4 @@ For questions, issues, or contributions:
 ---
 
 **Happy virtual dragging! 🖐️✨**
+
